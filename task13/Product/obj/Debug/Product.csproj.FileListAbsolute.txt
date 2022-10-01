@@ -1,0 +1,6 @@
+D:\intern\Product\bin\Debug\Product.dll
+D:\intern\Product\bin\Debug\Product.pdb
+D:\intern\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+D:\intern\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+D:\intern\Product\obj\Debug\Product.dll
+D:\intern\Product\obj\Debug\Product.pdb
